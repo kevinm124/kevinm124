@@ -8,6 +8,7 @@ Computer Science & Informatics student based in Slovenia, with a background in P
 
 **⚡ Highlights**
 
+- [**DealScore**](https://github.com/kevinm124/Car-deal-score-extension) — Chrome extension that scores used-car deals on avto.net, with EU price comparison and known-issue checks
 - [**CarRental**](https://github.com/kevinm124/CarRental) — desktop app for car rental management with C# and SQLite
 - [**TLDR-Everything**](https://github.com/kevinm124/TLDR-Everything) — summaries and action items from PDFs, links and YouTube videos
 - [**GoWhere**](https://github.com/kevinm124/GoWhere) — AI-powered place discovery
