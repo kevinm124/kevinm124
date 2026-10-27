@@ -1,4 +1,4 @@
-## Kevin Markoja
+## Hi, I'm Kevin
 
 Computer Science & Informatics student from Slovenia with hands-on experience in PC hardware and IT support. I enjoy building practical apps and tools across different technologies, and I’m increasingly focused on AI.
 
