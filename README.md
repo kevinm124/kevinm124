@@ -1,6 +1,6 @@
-### Hi, I'm Kevin 👋
+## Kevin Markoja
 
-Computer Science & Informatics student based in Slovenia, with a background in PC hardware and IT support. I build practical apps and tools across different technologies, with a growing interest in AI.
+Computer Science & Informatics student from Slovenia with hands-on experience in PC hardware and IT support. I enjoy building practical apps and tools across different technologies, and I’m increasingly focused on AI.
 
 **Languages** &nbsp; `Python` · `C#` · `C++` · `JavaScript` · `HTML/CSS` · `MySQL`<br>
 **Tools** &nbsp; `Linux/Windows` · `Git` · `VS Code` · `Unity` · `Arduino` · `Claude Code`<br>
